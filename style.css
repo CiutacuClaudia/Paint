@@ -1,0 +1,49 @@
+.butoane button {
+	width: 50px;
+	height: 50px;
+}
+.butoane {
+	display: flex;
+	justify-content: center;
+	width: fit-content;
+}
+.forme {
+	font-size: 25px;
+	padding-left: 230px;
+}
+.culoare {
+	font-size: 25px;
+	padding-left: 165px;
+}
+.selector_culoare {
+	height: 50px;
+	width: 50px;
+}
+
+/* .foaie {
+  margin-left: 250px;
+  margin-top: 30px;
+} */
+.svg-total {
+	margin: 100px;
+}
+
+.container {
+	display: flex;
+	width: 100%;
+	gap: 10px;
+	padding: 10px;
+	max-width: 1050px;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #0b030b;
+}
+
+.svg {
+	width: 1000px;
+	height: 600px;
+	background-color: white;
+}
